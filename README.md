@@ -1,4 +1,4 @@
-<h2 align="left">Hi🤓!<br>My name is Luiz Fernando. I'm from Rio de Janeiro, Brazil. I study programming in college and I like to contribute to tech communities whenever possible. My old GitHub account is no longer active, but this is my new one. Let's make this great again!</h2>
+<h2 align="left">Hi🤓!<br>My name is Luiz Fernando. I'm from Rio de Janeiro, Brazil. I like to contribute to tech communities whenever possible. My old GitHub account is no longer active, but this is my new one. Let's make this great again!</h2>
 
 ###
 
